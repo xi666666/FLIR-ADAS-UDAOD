@@ -65,25 +65,25 @@ The protocol focuses on the following categories relevant to autonomous driving:
 Below are the distribution statistics for each subset of our protocol:
 
 #### IR Unlabeled Training Set Distribution
-![IR Training Set Distribution](assets/appendix_v1_crop_1.png)
+![IR Training Set Distribution](appendix_v1_crop_1.png)
 *Figure 1: Distribution statistics of the IR unlabeled training dataset across different object categories.*
 
 #### IR Evaluation Set Distribution
-![IR Evaluation Set Distribution](assets/appendix_v1_crop_2.png)
+![IR Evaluation Set Distribution](appendix_v1_crop_2.png)
 *Figure 2: Distribution statistics of the IR evaluation dataset across different object categories.*
 
 #### RGB Labeled Training Set Distribution
-![RGB Training Set Distribution](assets/appendix_v1_crop_3.png)
+![RGB Training Set Distribution](appendix_v1_crop_3.png)
 *Figure 3: Distribution statistics of the RGB labeled training dataset across different object categories.*
 
 ### Comparison with Previous Protocols
 
 #### FLIR-ALIGN Dataset Examples
-![FLIR Dataset Examples](assets/appendix_v1_crop_4.png)
+![FLIR Dataset Examples](appendix_v1_crop_4.png)
 *Figure 4: Examples from the FLIR dataset showing paired RGB and IR images with shared annotations. This dataset was originally designed for fusion tasks.*
 
 #### FLIR-ADAS Dataset Examples (Our Protocol)
-![FLIR-ADAS Dataset Examples](assets/appendix_v1_crop_5.png)
+![FLIR-ADAS Dataset Examples](appendix_v1_crop_5.png)
 *Figure 5: Examples from our FLIR-ADAS protocol showing independently annotated RGB (including daytime, nighttime, and glare scenes) and IR images. The diverse scenarios better reflect real-world distribution.*
 
 ## Download
