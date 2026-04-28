@@ -171,11 +171,14 @@ For detailed experimental settings, please refer to our paper.
 If you use this dataset or protocol in your research, please cite:
 
 ```bibtex
-@inproceedings{ssdr2025,
-  title={SS-DC: Spatial-Spectral Decoupling and Coupling Across RGB-Thermal Gap for Domain Adaptive Object Detection},
-  author={Anonymous},
-  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
-  year={2025}
+@misc{zhang2025ssdcspatialspectraldecouplingcoupling,
+      title={SS-DC: Spatial-Spectral Decoupling and Coupling Across Visible-Infrared Gap for Domain Adaptive Object Detection}, 
+      author={Xiwei Zhang and Chunjin Yang and Yiming Xiao and Runtong Zhang and Fanman Meng},
+      year={2025},
+      eprint={2507.12017},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2507.12017}, 
 }
 ```
 
@@ -318,11 +321,14 @@ FLIR-ADAS-Protocol/
 若使用本协议或数据，请注明论文与原始 FLIR-ADAS 数据源，例如：
 
 ```bibtex
-@inproceedings{ssdr2025,
-  title={SS-DC: Spatial-Spectral Decoupling and Coupling Across RGB-Thermal Gap for Domain Adaptive Object Detection},
-  author={Anonymous},
-  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
-  year={2025}
+@misc{zhang2025ssdcspatialspectraldecouplingcoupling,
+      title={SS-DC: Spatial-Spectral Decoupling and Coupling Across Visible-Infrared Gap for Domain Adaptive Object Detection}, 
+      author={Xiwei Zhang and Chunjin Yang and Yiming Xiao and Runtong Zhang and Fanman Meng},
+      year={2025},
+      eprint={2507.12017},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2507.12017}, 
 }
 ```
 
